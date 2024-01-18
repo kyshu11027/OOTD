@@ -4,7 +4,7 @@ This app, coded entirely in Swift, serves as a virtual closet allowing users to 
 
 ## User Interface
 <img src="https://github.com/kyshu11027/OOTD/assets/96274909/f8cfd43a-a911-4393-ad13-59800191f831" width="250">
-<img src="![Simulator Screen Shot - iPhone 14 Pro - 2024-01-17 at 21 30 37](https://github.com/kyshu11027/OOTD/assets/96274909/d689343a-20c5-431b-aa9d-e15482d925b1)" width="250">
+<img src="https://github.com/kyshu11027/OOTD/assets/96274909/d689343a-20c5-431b-aa9d-e15482d925b1" width="250">
 <img src="https://github.com/kyshu11027/OOTD/assets/96274909/f8cfd43a-a911-4393-ad13-59800191f831" width="250">
 <img src="https://github.com/kyshu11027/OOTD/assets/96274909/f8cfd43a-a911-4393-ad13-59800191f831" width="250">
 <img src="https://github.com/kyshu11027/OOTD/assets/96274909/f8cfd43a-a911-4393-ad13-59800191f831" width="250">

@@ -3,7 +3,8 @@
 This app, coded entirely in Swift, serves as a virtual closet allowing users to upload pictures of their clothing and make outfits with them.
 
 ## User Interface
-![ootd](https://github.com/kyshu11027/OOTD/assets/96274909/5d1ad45b-c4ca-42b9-8d7f-b771b120a519 | width=250)
+<img src="https://github.com/kyshu11027/OOTD/assets/96274909/5d1ad45b-c4ca-42b9-8d7f-b771b120a519" width="150")
+<img src="https://github.com/kyshu11027/OOTD/assets/96274909/2c71460a-424c-4464-aee9-4f497b5659a1" width="150")
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-01-17 at 21 30 37](https://github.com/kyshu11027/OOTD/assets/96274909/2c71460a-424c-4464-aee9-4f497b5659a1 | width=250)
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-01-17 at 21 30 22](https://github.com/kyshu11027/OOTD/assets/96274909/2afb5288-3cbd-421f-8ea3-636e97ff8346 | width=250)
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-01-17 at 21 30 45](https://github.com/kyshu11027/OOTD/assets/96274909/7a5da2d4-cdc7-4684-b6ae-03a3507a4d8f | width=250)

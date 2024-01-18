@@ -1,4 +1,4 @@
-![Simulator Screen Shot - iPhone 14 Pro - 2024-01-17 at 21 30 37](https://github.com/kyshu11027/OOTD/assets/96274909/6332fa32-2ed8-4463-a584-9ce4fbf6d23b)# OOTD Fashion App
+# OOTD Fashion App
 
 This app, coded entirely in Swift, serves as a virtual closet allowing users to upload pictures of their clothing and make outfits with them.
 

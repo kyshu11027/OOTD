@@ -3,6 +3,8 @@
 This app, coded entirely in Swift, serves as a virtual closet allowing users to upload pictures of their clothing and make outfits with them.
 
 ## User Interface
+![ootd](https://github.com/kyshu11027/OOTD/assets/96274909/f8cfd43a-a911-4393-ad13-59800191f831)
+<img src="https://github.com/kyshu11027/OOTD/assets/96274909/f8cfd43a-a911-4393-ad13-59800191f831" width="150">
 
 
 ## Data Model
